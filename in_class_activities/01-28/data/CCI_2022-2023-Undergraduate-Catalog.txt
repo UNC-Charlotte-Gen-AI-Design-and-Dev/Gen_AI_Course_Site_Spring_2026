@@ -1,0 +1,1476 @@
+College of
+Computing and Informatics
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 165
+College of
+Computing and Informatics
+cci.charlotte.edu
+The University of North Carolina at Charlotte's College of Computing and Informatics (CCI) is part of a dynamic and exciting educational and research
+institution that combines the knowledge and expertise of multidisciplinary faculty, industry professionals, and students. The CCI was formed in 2000 as the
+College of Information Technology, with the mission of educating information technology specialists, conducting leading-edge research, and partnering with
+area businesses of great importance to the Charlotte community and the University. It was renamed the College of Computing and Informatics in 2006 in an
+effort to reflect the College’s commitment to maintain relevancy with the ever-changing world of information technology that impacts all of our lives on a
+daily basis.
+The College of Computing and Informatics consists of three departments:
+• Department of Bioinformatics and Genomics
+• Department of Computer Science
+• Department of Software and Information Systems
+Plus one interdisciplinary school:
+• School of Data Science
+The primary mission of CCI includes:
+• Cultivating an inclusive culture dedicated to student success and equity in education
+• Stimulating innovative high-risk high-impact research and development
+• Maintaining a resilient and ethical society of educated, caring citizens
+Degree Programs
+With educational programs rooted in a strong foundation of research, the CCI combines the talents of on- and off-campus partners in achieving its mission.
+Academic programs include Bachelor's, Master's, and Ph.D. degree programs in computer science, information technology, data science, and bioinformatics
+and computational biology. Committed to the concept of life-long learning, the College also offers undergraduate and graduate certificate programs.
+The College offers a single entry to the Bachelor of Arts in Computer Science and the Bachelor of Science in Computer Science, with the curriculum for specific
+concentrations in the Departments of Computer Science, Software and Information Systems, and Bioinformatics and Genomics.
+A key component of all CCI academic programs is the team interaction between students, faculty, and community partners. Through their involvement in
+real-world projects, students apply what they learn, thus, giving them practical experience as they help businesses solve computing and informatics
+challenges.
+Majors
+Within the College of Computing and Informatics, the requirements of the Bachelor of Science (B.S.) and Bachelor of Arts (B.A.) in Computer Science are
+fulfilled by completing specific concentrations of courses offered by the three different departments in the College of Computing and Informatics and
+designed for students interested in pursuing a career in computing.
+The B.S. offers a broad core of computing subjects and allows in-depth study in one of these concentrations:
+• AI, Robotics, and Gaming (Department of Computer Science)
+• Bioinformatics (Department of Bioinformatics and Genomics)
+• Cybersecurity (Department of Software and Information Systems)
+• Data Science (Department of Computer Science)
+• Software Engineering (Department of Software and Information Systems)
+• Software, Systems, and Networks (Department of Computer Science)
+• Web and Mobile Applications (Department of Software and Information Systems)
+The B.A. program is designed for students interested in pursuing a career in one of the following concentrations:
+• Bioinformatics (Department of Bioinformatics and Genomics)
+• Human-Computer Interaction (Department of Software and Information Systems)
+• Information Technology (Department of Software and Information Systems)
+166 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+Minors
+• Artificial Intelligence
+• Bioinformatics and Genomics
+• Data Science
+• Human-Centered Design
+• Interactive Programming
+• Software Development
+• Software Systems
+Undergraduate Certificates
+• Game Design and Development
+Honors Program
+The Computing and Informatics Honors Program (CCI Honors) is a research-based experience designed to provide mentoring to high-achieving students to
+better prepare them for post-graduate success. CCI Honors students must complete a capstone research project under the supervision of a faculty
+member. Upon the successful completion of the honors program in CCI, students receive Honors commendations on their transcript and in the
+commencement program.
+Admission Requirements
+Consideration for admission to the honors program may be initiated by the student or by any faculty member in the College of Computing and Informatics
+(CCI). To qualify, students must have:
+• An overall GPA of 3.2
+• A GPA of 3.4 in CCI courses
+Students should apply in the semester prior to the semester they plan to graduate. The CCI Honors Committee will formally approve admission.
+Course Requirements
+ITSC 4750 - Honors Thesis (3)
+Certification Requirements
+To graduate with Honors in Computing and Informatics, students must:
+• Prepare a description of the proposed honors research for submission to the CCI Honors Committee, which has the authority to approve, recommend
+revisions to, or reject the proposal. Students who plan to graduate with "Honors in Computing and Informatics" must complete the Application to
+Candidacy process for graduating with honors, as directed by the Honors College, beginning in the semester prior to registering for ITSC 4750.
+• Complete 3 credit hours of Honors Thesis (ITSC 4750) during the semester in which the student will complete their project.
+• Prepare a written honors thesis based upon independent honors research.
+• Make a public presentation of the research results and successfully defend their thesis before the student's honors committee.
+• Receive a grade of A in ITSC 4750, have a GPA of at least 3.4 for courses in CCI, and an overall GPA of 3.2.
+Upon completing the requirements of the honors program, receiving the recommendation of the College of Computing and Informatics Honors Committee
+and upon certification by the Honors College, the CCI Honors candidate shall graduate with Honors in Computing and Informatics.
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 167
+Department of complementary discipline to which computing applies. The emphasis in
+this program is less theoretical/mathematical, and more on the applied
+side of computing.
+Bioinformatics and
+Admission Requirements
+Genomics Freshmen
+• Minimum GPA: 2.5
+• Other Requirements: Admission is competitive for computer
+bioinformatics.charlotte.edu science programs and, if admissible, freshmen must present a
+minimum SAT-Math score of 530 or ACT-Math subscore of 22.
+Undergraduate Programs Transfers
+• Minimum GPA: 2.5
+• B.A. in Computer Science
+• Pre-Major/Prerequisite Courses: A grade of C or above is
+o Bioinformatics required in any previously attempted Computer Science course.
+• B.S. in Computer Science Students must be able to transfer credits for the equivalent of
+o Bioinformatics College Algebra.
+• Minor in Bioinformatics and Genomics • Other Requirements: Transfer students must present an overall
+• Early Entry: M.S. in Bioinformatics GPA of at least 2.5 with no grade less than C in Computer Science
+courses. For internal transfer students, participation in a Change
+• Early Entry: Graduate Certificate in Bioinformatics
+of Major Workshop offered by the CCI Advising Center is required
+Applications before becoming eligible to declare the Computer Science major.
+• Early Entry: Graduate Certificate in Bioinformatics • Transferable Credit Hours: 24
+Technology
+Degree Requirements
+Bioinformatics lies at the intersection of Computing and Biology. We are General Education Courses (37-41 credit hours)
+in the midst of a genomic revolution that is generating massive amounts For details on required courses, refer to the General Education program.
+of vital data. As Biology becomes more data-driven and quantitative, Students majoring in Computer Science should plan on taking the
+there is an increasing need for cross-training in computing and the following courses that meet both general education and major
+biological sciences. The educational goal of the Department of requirements:
+Bioinformatics and Genomics is to train professionals who can use
+quantitative and computer skills to help solve critical problems in Biology MATH 1120 - Calculus (3) (fulfills Mathematical and Logical Reasoning
+and Biomedicine. requirement)
+STAT 1222 - Introduction to Statistics (3) (fulfills Mathematical and
+The department offers degrees at the bachelors, masters, and doctoral Logical Reasoning requirement)
+levels, as well as graduate certificates. Undergraduate students can take ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+a Minor in Bioinformatics or a Concentration in Bioinformatics within the Communication Skills requirement)
+B.A. or B.S. degrees in Computer Science. These degrees are designed ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+to educate students in the collection, analysis, and interpretation of Communication Skills requirement)
+biological data, including the massive datasets being collected
+worldwide. Major Courses (36 credit hours)
+Core Courses (16 credit hours)
+ITSC 1212 - Introduction to Computer Science I (4)
+Bachelor of Arts in Computer Science with
+ITSC 1213 - Introduction to Computer Science II (4)
+Concentration in Bioinformatics ITSC 1600 - Computing Professionals (2)
+The Concentration in Bioinformatics presents up-to-date methods for or ITSC 2600 - Computer Science Program, Identity, Career (2)
+data handling and interpretation while developing an understanding of ITSC 2175 - Logic and Algorithms (3)
+critical issues in bioinformatics research design, statistical data analysis, or MATH 1165 - Introduction to Discrete Structures (3)
+and the application of genomics domain knowledge. ITSC 2214 - Data Structures and Algorithms (3)
+The B.A. in Computer Science with Concentration in Bioinformatics Advanced Statistics Course (3 credit hours)
+requires a compact set of a computer science core (15 credit hours). The BINF 3121 - Statistics for Bioinformatics (3)
+Bioinformatics concentration requires 14 credit hours of related work
+with courses in the fields of biology and chemistry, while other B.A. in Related Courses (14 credit hours)
+Computer Science concentrations require 15 credit hours of a second BIOL 2120 - General Biology I (3)
+concentration in a non-computer science discipline, satisfied by a second BIOL 2130 - General Biology II (3)
+major, a minor, or a set of coordinated courses developed through CHEM 1251 - General Chemistry I (3)
+consultation with an advisor. Graduates of the B.A. program are thus CHEM 1251L - General Chemistry I Laboratory (1)
+expected to have knowledge and skill in computer science, plus a CHEM 1252 - General Chemistry II (3)
+CHEM 1252L - General Chemistry II Laboratory (1)
+168 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+count as an attempt, as that effort is already restricted via the
+Capstone Course (3 credit hours) Withdrawal limit.
+Select one of the following:
+BINF 4650 - Senior Project (1 to 3) • Students are required to achieve a grade of C or above in all Core
+BINF 4900 - Principles of Team Science (3) Courses within the major, as listed above.
+ITCS 4232 - Game Design and Development Studio (3)
+ITIS 4390 - Interaction Design Studio (3) Bachelor of Science in Computer Science
+ITIS 4246 - Competitive Cyber Defense (3)
+ITSC 4681 - Senior Design I (3) with Concentration in Bioinformatics
+ITSC 4682 - Senior Design II (3) This concentration is designed to best prepare students to match the
+ITSC 4750 - Honors Thesis (3) diverse requirements of employers. It also prepares students to pursue
+ITSC 4850 - Senior Project I (3) graduate studies in computing and other related areas.
+ITSC 4851 - Senior Project II (3)
+ITSC 4990 - Undergraduate Research (3) The B.S. in Computer Science program requires a common set of a
+ITSC 4991 - Undergraduate Thesis (3) computer science courses, as well as a second concentration in a non-
+computer science discipline, satisfied by a second major, a minor, or a
+Concentration Courses (27-29 credit hours) set of coordinated courses developed through consultation with an
+Required Concentration Courses (18 credit hours) advisor. Graduates from the B.S. program are thus expected to have
+BINF 1101 - Introduction to Bioinformatics and Genomics (4) (fulfills the knowledge and skill in computer science plus a complementary discipline
+Natural Science General Education requirement) to which computing applies.
+BINF 2111 - Introduction to Bioinformatics Computing (4)
+BINF 3101 - Sequence Analysis (3) Admission Requirements
+BINF 4600 - Bioinformatics and Genomics Seminar (1)
+Freshmen
+BIOL 3111 - Cell Biology (3)
+• Minimum GPA: 2.5
+BIOL 3166 - Genetics (3)
+• Other Requirements: Admission is competitive for computer
+science programs and, if admissible, freshmen must present a
+Concentration Elective Courses (9-11 credit hours)
+minimum SAT-Math score of 530 or ACT-Math subscore of 22.
+Subarea 1: Database/Analytics (3-4 credit hours)
+Transfers
+Select one of the following:
+• Minimum GPA: 2.5
+BINF 3211 - Bioinformatics Databases and Data Mining Technologies (3)
+• Pre-Major/Prerequisite Courses: A grade of C or above is
+BINF 4211 - Applied Data Mining for Bioinformatics (4)
+required in any previously attempted Computer Science course.
+Students must be able to transfer credits for the equivalent of
+Subarea 2: Professional Development (3 credit hours)
+College Algebra.
+Select one of the following:
+• Other Requirements: Transfer students must present an overall
+BINF 4171 - Business of Biotechnology (3)
+GPA of at least 2.5 with no grade less than C in Computer Science
+BINF 4191 - Life Sciences and the Law (3)
+courses. For internal transfer students, participation in a Change
+of Major Workshop offered by the CCI Advising Center is required
+Subarea 3: Upper-Division Elective (3-4 credit hours)
+before becoming eligible to declare the Computer Science major.
+Select one of the following:
+• Transferable Credit Hours: 24
+BINF 3131 - Bioinformatics Algorithms (4)
+BINF 3201 - Genomic Methods (4)
+Degree Requirements
+BINF 4101 - Computational Systems Biology (3)
+BINF 4111 - Structural Bioinformatics (3) General Education Courses (37-41 credit hours)
+For details on required courses, refer to the General Education program.
+Unrestricted Elective Courses Students majoring in Computer Science should plan on taking the
+As needed to complete the credit hours required for graduation. following courses that meet both general education and major
+requirements:
+Degree Total = 120 Credit Hours
+MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning
+requirement)
+Grade Requirements
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning
+• The GPA requirement for all Computer Science undergraduate
+requirement)
+degree programs is 2.0 or above in all courses applied to the degree
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+and all courses in the major.
+Communication Skills requirement)
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+• Students have a limit of 2 attempts per course in the major (plus 1
+Communication Skills requirement)
+more by petition). This applies to all courses listed under the Major
+Courses and Concentration Courses categories of B.S. and B.A. in
+Computer Science degree programs. The third attempt at a course
+can only be approved by petition. In addition, a Withdrawal does not
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 169
+Concentration Courses (21-22 credit hours)
+Required Concentration Courses (12 credit hours)
+BINF 1101 - Introduction to Bioinformatics and Genomics (4) (fulfills the
+Natural Science General Education requirement)
+BINF 2111 - Introduction to Bioinformatics Computing (4)
+BINF 3101 - Sequence Analysis (3)
+BINF 4600 - Bioinformatics and Genomics Seminar (1)
+Concentration Elective Courses (9-11 credit hours)
+Subarea 1: Database/Analytics (3-4 credit hours)
+Select one of the following:
+BINF 3121 - Statistics for Bioinformatics (3)
+BINF 3211 - Bioinformatics Databases and Data Mining Technologies (3)
+BINF 4211 - Applied Data Mining for Bioinformatics (4)
+Subarea 2: Professional Development (3 credit hours)
+Select one of the following:
+BINF 4171 - Business of Biotechnology (3)
+BINF 4191 - Life Sciences and the Law (3)
+Subarea 3: Upper-Division Elective (3-4 credit hours)
+Select one of the following:
+BINF 3131 - Bioinformatics Algorithms (4)
+BINF 3201 - Genomic Methods (4)
+BINF 4101 - Computational Systems Biology (3)
+BINF 4111 - Structural Bioinformatics (3)
+Capstone Course (3 credit hours)
+Major Courses (50 credit hours) Select one of the following:
+Core Courses (26 credit hours) BINF 4650 - Senior Project (1 to 3)
+ITSC 1212 - Introduction to Computer Science I (4) BINF 4900 - Principles of Team Science (3)
+ITSC 1213 - Introduction to Computer Science II (4) ITCS 4232 - Game Design and Development Studio (3)
+ITSC 1600 - Computing Professionals (2) ITIS 4390 - Interaction Design Studio (3)
+or ITSC 2600 - Computer Science Program, Identity, Career (2) ITIS 4246 - Competitive Cyber Defense (3)
+ITSC 2175 - Logic and Algorithms (3) ITSC 4155 - Software Development Projects (3)
+or MATH 1165 - Introduction to Discrete Structures (3) ITSC 4681 - Senior Design I (3)
+ITSC 2181 - Introduction to Computer Systems (4) ITSC 4682 - Senior Design II (3)
+ITSC 2214 - Data Structures and Algorithms (3) ITSC 4750 - Honors Thesis (3)
+ITSC 3146 - Introduction to Operating Systems and Networking (3) ITSC 4850 - Senior Project I (3)
+ITSC 3155 - Software Engineering (3) ITSC 4851 - Senior Project II (3)
+ITSC 4990 - Undergraduate Research (3)
+Mathematics and Statistics Courses (6 credit hours) ITSC 4991 - Undergraduate Thesis (3)
+MATH 2164 - Matrices and Linear Algebra (3)
+STAT 2122 - Introduction to Probability and Statistics (3) Unrestricted Elective Courses
+As needed to complete the credit hours required for graduation.
+Elective Courses in Other Disciplines (15 credit hours)
+Select 15 elective credit hours. Courses that count towards this Degree Total = 120 Credit Hours
+requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+This requirement can be fulfilled by pursuing a/an:
+Grade Requirements
+• The GPA requirement for all Computer Science undergraduate
+• Minor
+degree programs is 2.0 or above in all courses applied to the degree
+• Second major
+and all courses in the major.
+• Honors program
+• Undergraduate certificate
+• Students have a limit of 2 attempts per course in the major (plus 1
+• Set of courses selected by the student that do not satisfy any other
+more by petition). This applies to all courses listed under the Major
+degree requirement
+Courses and Concentration Courses categories of B.S. and B.A. in
+Computer Science degree programs. The third attempt at a course
+can only be approved by petition. In addition, a Withdrawal does not
+count as an attempt, as that effort is already restricted via the
+170 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+Withdrawal limit. • Undergraduate students are allowed to take only 15 hours of
+graduate credit before they have completed their baccalaureate
+• Students are required to achieve a grade of C or above in all Core degree
+Courses within the major, as listed above.
+Double-Counted Courses
+Minor in Bioinformatics and Genomics Up to 12 credit hours earned at the graduate level may be substituted for
+required undergraduate hours (i.e., up to 12 credit hours of graduate
+Designed to introduce students to the collection, informatics analysis
+coursework may be double-counted toward both the undergraduate and
+and interpretation of data derived from genomic and biological
+graduate degrees).
+macromolecular investigations, the Minor in Bioinformatics and
+Genomics provides students with a foundation of understanding and the
+More Information
+computing skill necessary to communicate in the increasingly data-
+For additional details on Early Entry to Graduate Programs, see the
+centric life sciences. In addition to gaining first-hand experience with
+"Degree Requirements and Academic Policies" section of the Graduate
+current technologies for high-throughput data generation, students will
+Catalog and the Graduate Admissions website at
+receive training in up-to-date methods for data handling and
+gradadmissions.charlotte.edu/admissions/early-entry.
+interpretation while developing an understanding of critical issues in
+bioinformatics research design, statistical data analysis, and the
+For details about the full requirements for these degree programs, see
+application of genomics domain knowledge.
+the program listings in the Graduate Catalog.
+Minor Requirements
+BINF 1101 - Introduction to Bioinformatics and Genomics (4)
+BINF 2111 - Introduction to Bioinformatics Computing (4)
+BINF 3101 - Sequence Analysis (3)
+BINF 3121 - Statistics for Bioinformatics (3)
+or BINF 4211 - Applied Data Mining for Bioinformatics (4)
+BINF 4600 - Bioinformatics and Genomics Seminar (1)
+Total = 15 Credit Hours
+Early Entry: Master of Science in
+Bioinformatics, Graduate Certificate in
+Bioinformatics Applications, or Graduate
+Certificate in Bioinformatics Technology
+Exceptional undergraduate students at UNC Charlotte may be accepted
+into the M.S. in Bioinformatics, Graduate Certificate in Bioinformatics
+Applications, or Graduate Certificate in Bioinformatics Technology, and
+begin work toward a graduate degree before completion of the
+baccalaureate degree.
+Admission Requirements
+• Completion of at least 75 undergraduate credit hours (although it is
+expected that close to 90 credit hours will have been earned by the
+time the first graduate course is taken)
+• Minimum 3.2 overall undergraduate GPA
+• Submit application online at gradadmissions.charlotte.edu/apply
+and provide supporting documents
+• Recommendation by the Graduate Program Director and approved
+by the Graduate School
+Continued Enrollment Requirements
+• Completion of Early Entry Program Form, and approved by the
+Undergraduate Coordinator, Graduate Program Director, and
+Graduate School, prior to registering for graduate coursework each
+semester
+• Maintain a minimum 3.0 overall undergraduate GPA and a 3.0
+Junior/Senior GPA
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 171
+Department of
+Computer Science
+cs.charlotte.edu
+Undergraduate Programs
+• B.S. in Computer Science
+o AI, Robotics, and Gaming
+o Data Science
+o Software, Systems, and Networks
+• Minor in Artificial Intelligence
+• Minor in Data Science
+• Minor in Software Systems
+• Undergraduate Certificate in Game Design and Bachelor of Science in Computer Science
+Development
+with Concentration in AI, Robotics, and Gaming
+• Early Entry: M.S. in Computer Science
+This concentration is designed to best prepare students to match the
+diverse requirements of employers. It also prepares students to pursue
+Computer Science is the cornerstone of modern society. It revolutionizes
+graduate studies in computing and other related areas.
+how we learn, communicate, entertain, conduct business, perform
+research, and practice medicine. It provides computer scientists with
+The B.S. in Computer Science program requires a common set of a
+nearly limitless opportunities to make satisfying and enriching
+computer science courses, as well as a second concentration in a non-
+contributions to society. While other disciplines produce graduates
+computer science discipline, satisfied by a second major, a minor, or a
+prepared for specific jobs, computer science offers a comprehensive
+set of coordinated courses developed through consultation with an
+foundation that permits graduates to explore and adapt to new
+advisor. Graduates from the B.S. program are thus expected to have
+technologies, ideas, and professions. The work of computer scientists
+knowledge and skill in computer science plus a complementary discipline
+falls into many categories. For example, computer scientists:
+to which computing applies.
+• Design, implement, and operate software. Computer scientists
+Admission Requirements
+tackle challenging software design, implementation, and testing
+Freshmen
+problems. They also lead and contribute to software projects and
+• Minimum GPA: 2.5
+operate software systems.
+• Other Requirements: Admission is competitive for computer
+• Discover, innovate, and create. Computer scientists produce
+science programs and, if admissible, freshmen must present a
+innovative solutions to society’s most difficult and critical
+minimum SAT-Math score of 530 or ACT-Math subscore of 22.
+challenges. They promote discovery. They are innovators who
+Transfers
+inspire creativity and overcome challenges big and small.
+• Minimum GPA: 2.5
+• Integrate information and technology into society. Computer
+• Pre-Major/Prerequisite Courses: A grade of C or above is
+scientists design new ways to integrate information and technology
+required in any previously attempted Computer Science course.
+into all aspects of society including business workflows, the arts,
+Students must be able to transfer credits for the equivalent of
+research, engineering, healthcare, and education.
+College Algebra.
+• Manage and explore data. Computer scientists develop and apply
+• Other Requirements: Transfer students must present an overall
+tools and methods to curate, explore, and synthesize data to
+GPA of at least 2.5 with no grade less than C in Computer Science
+uncover insights and inform decision-making.
+courses. For internal transfer students, participation in a Change
+of Major Workshop offered by the CCI Advising Center is required
+The Department of Computer Science offers degrees at the
+before becoming eligible to declare the Computer Science major.
+baccalaureate, master’s, and doctoral levels, as well as various
+• Transferable Credit Hours: 24
+certificates. The department offers B.S. and M.S. degrees in Computer
+Science with concentrations in: Data Science; Artificial Intelligence,
+Degree Requirements
+Robotics, and Gaming; and, Software, Systems, and Networks. The M.S. in
+Computer Science offers an additional concentration in Information General Education Courses (37-41 credit hours)
+Security and Privacy. The department also offers a Ph.D. in Computing For details on required courses, refer to the General Education program.
+and Information Systems. See the UNC Charlotte Graduate Catalog for Students majoring in Computer Science should plan on taking the
+information on the M.S. and Ph.D. degrees.) Students are prepared by following courses that meet both general education and major
+internationally recognized faculty through a comprehensive program of requirements:
+coursework, research, and internship opportunities in state-of-the-art
+computing facilities. MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning
+172 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+requirement)
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning Concentration Elective Courses (12 credit hours)
+requirement) Select four of the following:
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills ITCS 3120 - Introduction to Interactive Computer Graphics (3)
+Communication Skills requirement) ITCS 4111 - Introduction to Natural Language Processing (3)
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills ITCS 4123 - Visualization and Visual Communication (3)
+Communication Skills requirement) ITCS 4124 - Advanced 3D Computer Graphics (3)
+ITCS 4150 - Mobile Robotics (3)
+Major Courses (50 credit hours) ITCS 4151 - Intelligent Robotics (3)
+Core Courses (26 credit hours) ITCS 4152 - Computer Vision (3)
+ITSC 1212 - Introduction to Computer Science I (4) ITCS 4156 - Introduction to Machine Learning (3)
+ITSC 1213 - Introduction to Computer Science II (4) ITCS 4230 - Introduction to Game Design and Development (3)
+ITSC 1600 - Computing Professionals (2) ITCS 4231 - Advanced Game Design and Development (3)
+or ITSC 2600 - Computer Science Program, Identity, Career (2)
+ITSC 2175 - Logic and Algorithms (3) Concentration Technical Elective Courses (6 credit hours)
+or MATH 1165 - Introduction to Discrete Structures (3) Select elective courses from the 3000- or 4000- levels of courses offered
+ITSC 2181 - Introduction to Computer Systems (4) by the College of Computing and Informatics.
+ITSC 2214 - Data Structures and Algorithms (3)
+ITSC 3146 - Introduction to Operating Systems and Networking (3) Unrestricted Elective Courses
+ITSC 3155 - Software Engineering (3) As needed to complete the credit hours required for graduation.
+Mathematics and Statistics Courses (6 credit hours) Degree Total = 120 Credit Hours
+MATH 2164 - Matrices and Linear Algebra (3)
+STAT 2122 - Introduction to Probability and Statistics (3) Grade Requirements
+• The GPA requirement for all Computer Science undergraduate
+Capstone Course (3 credit hours)
+degree programs is 2.0 or above in all courses applied to the degree
+Select one of the following:
+and all courses in the major.
+ITCS 4232 - Game Design and Development Studio (3)
+ITIS 4390 - Interaction Design Studio (3)
+• Students have a limit of 2 attempts per course in the major (plus 1
+ITIS 4246 - Competitive Cyber Defense (3)
+more by petition). This applies to all courses listed under the Major
+ITSC 4155 - Software Development Projects (3)
+Courses and Concentration Courses categories of B.S. and B.A. in
+ITSC 4681 - Senior Design I (3)
+Computer Science degree programs. The third attempt at a course
+ITSC 4682 - Senior Design II (3)
+can only be approved by petition. In addition, a Withdrawal does not
+ITSC 4750 - Honors Thesis (3)
+count as an attempt, as that effort is already restricted via the
+ITSC 4850 - Senior Project I (3)
+Withdrawal limit.
+ITSC 4851 - Senior Project II (3)
+ITSC 4990 - Undergraduate Research (3)
+• Students are required to achieve a grade of C or above in all Core
+ITSC 4991 - Undergraduate Thesis (3)
+Courses within the major, as listed above.
+For this concentration, either of the courses below could also be used to
+satisfy the Capstone requirement: Bachelor of Science in Computer Science
+ITCS 4232 - Game Design and Development Studio (3)
+with Concentration in Data Science
+ITCS 4238 - Intelligent and Interactive System Studio (3)
+This concentration is designed to best prepare students to match the
+diverse requirements of employers. It also prepares students to pursue
+Elective Courses in Other Disciplines (15 credit hours)
+graduate studies in computing and other related areas.
+Select 15 elective credit hours. Courses that count towards this
+requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+The B.S. in Computer Science program requires a common set of a
+This requirement can be fulfilled by pursuing a/an:
+computer science courses, as well as a second concentration in a non-
+computer science discipline, satisfied by a second major, a minor, or a
+• Minor
+set of coordinated courses developed through consultation with an
+• Second major
+advisor. Graduates from the B.S. program are thus expected to have
+• Honors program
+knowledge and skill in computer science plus a complementary discipline
+• Undergraduate certificate
+to which computing applies.
+• Set of courses selected by the student that do not satisfy any other
+degree requirement
+Admission Requirements
+Freshmen
+Concentration Courses (21 credit hours)
+• Minimum GPA: 2.5
+Required Concentration Courses (3 credit hours)
+ITCS 3153 - Introduction to Artificial Intelligence (3) • Other Requirements: Admission is competitive for computer
+science programs and, if admissible, freshmen must present a
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 173
+minimum SAT-Math score of 530 or ACT-Math subscore of 22. ITSC 4991 - Undergraduate Thesis (3)
+Transfers
+• Minimum GPA: 2.5 Elective Courses in Other Disciplines (15 credit hours)
+• Pre-Major/Prerequisite Courses: A grade of C or above is Select 15 elective credit hours. Courses that count towards this
+required in any previously attempted Computer Science course. requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+Students must be able to transfer credits for the equivalent of This requirement can be fulfilled by pursuing a/an:
+College Algebra.
+• Other Requirements: Transfer students must present an overall • Minor
+GPA of at least 2.5 with no grade less than C in Computer Science • Second major
+courses. For internal transfer students, participation in a Change • Honors program
+of Major Workshop offered by the CCI Advising Center is required • Undergraduate certificate
+before becoming eligible to declare the Computer Science major. • Set of courses selected by the student that do not satisfy any other
+• Transferable Credit Hours: 24 degree requirement
+Degree Requirements Concentration Courses (21 credit hours)
+General Education Courses (37-41 credit hours) Required Concentration Courses (6 credit hours)
+For details on required courses, refer to the General Education program. ITCS 3160 - Database Design and Implementation (3)
+Students majoring in Computer Science should plan on taking the ITCS 3162 - Introduction to Data Mining (3)
+following courses that meet both general education and major
+requirements: Concentration Elective Courses (12 credit hours)
+Select three courses from the lists below, with at least one from each of
+MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning the two groups:
+requirement)
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning Group A
+requirement) ITCS 3190 - Cloud Computing for Data Analysis (3)
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills ITCS 3216 - Introduction to Cognitive Science (3)
+Communication Skills requirement) ITCS 4156 - Introduction to Machine Learning (3)
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+Communication Skills requirement) Group B
+INFO 3236 - Business Analytics (3)
+Major Courses (50 credit hours) ITCS 3134 - Digital Image Processing (3)
+Core Courses (26 credit hours) ITCS 4121 - Information Visualization (3)
+ITSC 1212 - Introduction to Computer Science I (4) ITCS 4122 - Visual Analytics (3)
+ITSC 1213 - Introduction to Computer Science II (4) ITIS 4510 - Web Mining (3)
+ITSC 1600 - Computing Professionals (2)
+or ITSC 2600 - Computer Science Program, Identity, Career (2) Concentration Technical Elective Courses (6 credit hours)
+ITSC 2175 - Logic and Algorithms (3) Select elective courses from the 3000- or 4000- levels of courses offered
+or MATH 1165 - Introduction to Discrete Structures (3) by the College of Computing and Informatics.
+ITSC 2181 - Introduction to Computer Systems (4)
+ITSC 2214 - Data Structures and Algorithms (3) Unrestricted Elective Courses
+ITSC 3146 - Introduction to Operating Systems and Networking (3) As needed to complete the credit hours required for graduation.
+ITSC 3155 - Software Engineering (3)
+Degree Total = 120 Credit Hours
+Mathematics and Statistics Courses (6 credit hours)
+MATH 2164 - Matrices and Linear Algebra (3) Grade Requirements
+STAT 2122 - Introduction to Probability and Statistics (3)
+• The GPA requirement for all Computer Science undergraduate
+degree programs is 2.0 or above in all courses applied to the degree
+Capstone Course (3 credit hours)
+and all courses in the major.
+Select one of the following:
+ITCS 4232 - Game Design and Development Studio (3)
+• Students have a limit of 2 attempts per course in the major (plus 1
+ITIS 4390 - Interaction Design Studio (3)
+more by petition). This applies to all courses listed under the Major
+ITIS 4246 - Competitive Cyber Defense (3)
+Courses and Concentration Courses categories of B.S. and B.A. in
+ITSC 4155 - Software Development Projects (3)
+Computer Science degree programs. The third attempt at a course
+ITSC 4681 - Senior Design I (3)
+can only be approved by petition. In addition, a Withdrawal does not
+ITSC 4682 - Senior Design II (3)
+count as an attempt, as that effort is already restricted via the
+ITSC 4750 - Honors Thesis (3)
+Withdrawal limit.
+ITSC 4850 - Senior Project I (3)
+ITSC 4851 - Senior Project II (3)
+• Students are required to achieve a grade of C or above in all Core
+ITSC 4990 - Undergraduate Research (3)
+Courses within the major, as listed above.
+174 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+ITSC 2175 - Logic and Algorithms (3)
+Bachelor of Science in Computer Science or MATH 1165 - Introduction to Discrete Structures (3)
+ITSC 2181 - Introduction to Computer Systems (4)
+with Concentration in Software, Systems, and ITSC 2214 - Data Structures and Algorithms (3)
+Networks ITSC 3146 - Introduction to Operating Systems and Networking (3)
+ITSC 3155 - Software Engineering (3)
+This concentration is designed to best prepare students to match the
+diverse requirements of employers. It also prepares students to pursue
+Mathematics and Statistics Courses (6 credit hours)
+graduate studies in computing and other related areas.
+MATH 2164 - Matrices and Linear Algebra (3)
+STAT 2122 - Introduction to Probability and Statistics (3)
+The B.S. in Computer Science program requires a common set of a
+computer science courses, as well as a second concentration in a non-
+Elective Courses in Other Disciplines (15 credit hours)
+computer science discipline, satisfied by a second major, a minor, or a
+Select 15 elective credit hours. Courses that count towards this
+set of coordinated courses developed through consultation with an
+requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+advisor. Graduates from the B.S. program are thus expected to have
+This requirement can be fulfilled by pursuing a/an:
+knowledge and skill in computer science plus a complementary discipline
+to which computing applies.
+• Minor
+• Second major
+Admission Requirements
+• Honors program
+Freshmen
+• Undergraduate certificate
+• Minimum GPA: 2.5
+• Set of courses selected by the student that do not satisfy any other
+• Other Requirements: Admission is competitive for computer
+degree requirement
+science programs and, if admissible, freshmen must present a
+minimum SAT-Math score of 530 or ACT-Math subscore of 22.
+Capstone Course (3 credit hours)
+Transfers
+Select one of the following:
+• Minimum GPA: 2.5
+ITCS 4232 - Game Design and Development Studio (3)
+• Pre-Major/Prerequisite Courses: A grade of C or above is
+ITIS 4390 - Interaction Design Studio (3)
+required in any previously attempted Computer Science course.
+ITIS 4246 - Competitive Cyber Defense (3)
+Students must be able to transfer credits for the equivalent of
+ITSC 4155 - Software Development Projects (3)
+College Algebra.
+ITSC 4681 - Senior Design I (3)
+• Other Requirements: Transfer students must present an overall ITSC 4682 - Senior Design II (3)
+GPA of at least 2.5 with no grade less than C in Computer Science
+ITSC 4750 - Honors Thesis (3)
+courses. For internal transfer students, participation in a Change
+ITSC 4850 - Senior Project I (3)
+of Major Workshop offered by the CCI Advising Center is required
+ITSC 4851 - Senior Project II (3)
+before becoming eligible to declare the Computer Science major.
+ITSC 4990 - Undergraduate Research (3)
+• Transferable Credit Hours: 24 ITSC 4991 - Undergraduate Thesis (3)
+Degree Requirements Concentration Courses (21 credit hours)
+General Education Courses (37-41 credit hours) Required Concentration Courses (6 credit hours)
+For details on required courses, refer to the General Education program. ITCS 3145 - Parallel and Distributed Computing (3)
+Students majoring in Computer Science should plan on taking the ITCS 3166 - Introduction to Computer Networks (3)
+following courses that meet both general education and major
+requirements: Concentration Elective Courses (9 credit hours)
+Select three of the following: (The categories are only to indicate sub-
+MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning areas of this concentration and the courses selected do not need to be
+requirement) within one category.)
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning
+requirement) Systems
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills ITCS 3143 - Operating Systems (3)
+Communication Skills requirement) ITCS 3160 - Database Design and Implementation (3)
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills ITCS 4141 - Computer Organization and Architecture (3)
+Communication Skills requirement) ITCS 4182 - Introduction to High-Performance Computing (3)
+ITIS 4221 - Secure Programming and Penetration Testing (3)
+Major Courses (50 credit hours)
+Core Courses (26 credit hours) Software: Programming Languages Foundations and Practice
+ITSC 1212 - Introduction to Computer Science I (4) ITCS 3110 - Compiler Construction (3)
+ITSC 1213 - Introduction to Computer Science II (4) ITCS 3112 - Design and Implementation of Object-Oriented Systems (3)
+ITSC 1600 - Computing Professionals (2) ITCS 4102 - Programming Languages (3)
+or ITSC 2600 - Computer Science Program, Identity, Career (2) ITIS 3320 - Introduction to Software Testing and Assurance (3)
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 175
+Concentration Course (3 credit hours)
+Pervasive, Mobile, and Embedded Computing ITCS 3153 - Introduction to Artificial Intelligence (3)
+ITCS 4131 - Communication Network Design (3)
+ITCS 4180 - Mobile Application Development (3) Elective Course (3 credit hours)
+ITIS 3200 - Introduction to Information Security and Privacy (3) Select one of the following:
+ITIS 4166 - Network-Based Application Development (3) ITCS 3120 - Introduction to Interactive Computer Graphics (3)
+ITCS 3134 - Digital Image Processing (3)
+Concentration Technical Elective Courses (6 credit hours) ITCS 4123 - Visualization and Visual Communication (3)
+Select elective courses from the 3000- or 4000- levels of courses offered ITCS 4151 - Intelligent Robotics (3)
+by the College of Computing and Informatics.
+Minor Total = 17 Credit Hours
+Unrestricted Elective Courses
+As needed to complete the credit hours required for graduation. Grade Requirements
+Students must receive a grade of C or above in all courses toward the
+Degree Total = 120 Credit Hours
+minor.
+Grade Requirements
+Minor in Data Science
+• The GPA requirement for all Computer Science undergraduate
+The Minor in Data Science is designed for non-Computer Science majors
+degree programs is 2.0 or above in all courses applied to the degree
+to have significant exposure in fundamentals of computer science and
+and all courses in the major.
+the modern technical area of data science, which can provide valuable
+knowledge and skill in the development of students' majors and for the
+• Students have a limit of 2 attempts per course in the major (plus 1
+job market.
+more by petition). This applies to all courses listed under the Major
+Courses and Concentration Courses categories of B.S. and B.A. in
+Admission Requirements
+Computer Science degree programs. The third attempt at a course
+can only be approved by petition. In addition, a Withdrawal does not Students must have a background in mathematics and have completed
+count as an attempt, as that effort is already restricted via the one of the following courses:
+Withdrawal limit.
+MATH 1100 - College Algebra (3)
+• Students are required to achieve a grade of C or above in all Core MATH 1103 - Precalculus Mathematics for Science and Engineering (3)
+Courses within the major, as listed above. MATH 1120 - Calculus (3)
+MATH 1241 - Calculus I (3)
+Minor in Artificial Intelligence
+Minor Requirements
+The Minor in Artificial Intelligence is designed for non-Computer Science The minor requires a minimum of 17 credit hours.
+majors to have significant exposure in fundamentals of computer science
+and the modern technical area of artificial intelligence, which can provide Core Courses (11 credit hours)
+valuable knowledge and skill in the development of students' majors and ITSC 1212 - Introduction to Computer Science I (4)
+for the job market. ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 2214 - Data Structures and Algorithms (3)
+Admission Requirements
+Students must have a background in mathematics and have completed Elective Concentration Courses (6 credit hours)
+one of the following courses: Select two of the following:
+ITCS 3160 - Database Design and Implementation (3)
+MATH 1100 - College Algebra (3) ITCS 3162 - Introduction to Data Mining (3)
+MATH 1103 - Precalculus Mathematics for Science and Engineering (3) ITCS 3190 - Cloud Computing for Data Analysis (3)
+MATH 1120 - Calculus (3)
+MATH 1241 - Calculus I (3) Minor Total = 17 Credit Hours
+Minor Requirements Grade Requirements
+The minor requires a minimum of 17 credit hours. Students must receive a grade of C or above in all courses toward the
+minor.
+Core Courses (11 credit hours)
+ITSC 1212 - Introduction to Computer Science I (4)
+Minor in Software Systems
+ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 2214 - Data Structures and Algorithms (3) The Minor in Software Systems is designed for non-Computer Science
+majors to have significant exposure in fundamentals of computer science
+and the classical technical area of software systems, which can provide
+valuable knowledge and skill in the development of students' majors and
+176 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+for the job market. 3) Official transcripts for previous degree(s) and course work
+4) A Declaration of Program form (Change of Major/Minor form)
+Admission Requirements listing the certificate program.
+Students must have a background in mathematics and have completed
+one of the following courses: In addition, the program expects a current working knowledge of two
+higher-level languages, including at least one procedural language; and a
+MATH 1100 - College Algebra (3) familiarity with computer applications. The following minimal
+MATH 1103 - Precalculus Mathematics for Science and Engineering (3) background in mathematics is also required: two semesters of calculus
+MATH 1120 - Calculus (3) and one semester of discrete structures. Individuals who have worked at
+MATH 1241 - Calculus I (3) a high professional level in the computer industry may be able to
+substitute work experience for specific subject area admission
+Minor Requirements requirements.
+The minor requires a minimum of 17 credit hours.
+Students who anticipate applying certificate courses toward an
+undergraduate degree program should seek advice from that program
+Core Courses (11 credit hours)
+prior to enrolling. Admission to an undergraduate degree program does
+ITSC 1212 - Introduction to Computer Science I (4)
+not ensure admission into a discipline-related certificate program.
+ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 2214 - Data Structures and Algorithms (3)
+Course Requirements
+The certificate will be awarded upon completion of five to six
+Elective Concentration Courses (6 credit hours)
+undergraduate level courses (15-18 credit hours) in the area of game
+Select two of the following:
+design and development. Up to a maximum of six transfer credits may be
+ITCS 3145 - Parallel and Distributed Computing (3)
+applied to the certificate. Course substitutions may be made at the
+ITCS 3160 - Database Design and Implementation (3)
+discretion of the GDD Certificate Coordinator.
+ITCS 3166 - Introduction to Computer Networks (3)
+ITSC 3155 - Software Engineering (3)
+Required Compulsory Courses (12 credit hours)
+ITCS 4120 - Introduction to Computer Graphics (3)
+Minor Total = 17 Credit Hours
+ITCS 4230 - Introduction to Game Design and Development (3)
+ITCS 4231 - Advanced Game Design and Development (3)
+Grade Requirements
+ITCS 4232 - Game Design and Development Studio (3)
+Students must receive a grade of C or above in all courses toward the
+minor. Concentration Courses (3-6 credit hours)
+Select one of the following two-course sequences:
+Undergraduate Certificate in
+Artificial Intelligence
+Game Design and Development
+ITCS 3153 - Introduction to Artificial Intelligence (3)
+The Undergraduate Certificate in Game Design and Development (GDD) ITCS 4236 - Artificial Intelligence for Computer Games (3)
+provides undergraduate students with the opportunity to reach a
+demonstrated level of competence in game design and development. Computation
+Coursework towards the certificate in GDD can be used for credit towards ITCS 4237 - Audio Processing for Entertainment Computing (3)
+the Bachelor’s degree in Computer Science. However, its primary A computation-related course approved by the GDD Certificate
+purpose is to provide a well-defined target for students who want to Coordinator (3)
+advance their knowledge of modern game design and development
+techniques and work with a variety of professionals, from artists to Graphics
+writers, to being the vision for an interactive game or media product to ITCS 4120 Introduction to Computer Graphics (3) (this is already a
+life. The certificate may be pursued concurrently with any of the required compulsory course)
+undergraduate degree programs at UNC Charlotte. ITCS 4235 Game Engine Construction (3)
+Admission Requirements Networking
+ITCS 3166 Introduction to Computer Networks (3)
+To be admitted into the Undergraduate Certificate in Game Design and
+A game-networking related course approved by the GDD Certificate
+Development, students must meet the general University requirements
+Coordinator (3)
+for admission into Undergraduate Certificate Programs. These
+University-level requirements include:
+Other
+A sequence of two related courses (generally from ITCS/ITIS at the
+1) An undergraduate degree or admission to an undergraduate degree
+3000-level or above) approved by the GDD Certificate Coordinator.
+program at UNC Charlotte.
+2) An application submitted to the Registrar if applicant already holds
+Certificate Total = 15-18 Credit Hours
+an undergraduate degree, or to the department offering the
+program if applicant does not hold an undergraduate degree.
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 177
+Grade Requirements Undergraduate Course Graduate Substitutions
+The certificate program requires all courses taken for the certificate to Capstone Course
+be passed at the C level or above, and a GPA in all certificate courses of
+ITSC 4155 ITCS 6112
+2.5 or above.
+AI, Robotics, and Gaming Concentration Electives
+ITCS 4123 ITCS 5123
+Early Entry: Master of Science in
+ITCS 4152 ITCS 5152
+Computer Science ITCS 4156 ITCS 6156
+Exceptional undergraduate students at UNC Charlotte may apply to this ITCS 4230 ITCS 5230
+Early Entry Program to begin work toward a graduate degree before ITCS 4231 ITCS 5231
+completion of the baccalaureate degree. ITCS 4235 ITCS 5235
+ITCS 4236 ITCS 5236
+Admission Requirements
+Software, Systems, and Networking Concentration Electives
+• Completion of at least 75 undergraduate credit hours (although it is ITCS 4102 ITCS 5102
+expected that close to 90 credit hours will have been earned by the
+ITCS 4131 ITCS 6166
+time the first graduate course is taken)
+ITCS 4141 ITCS 5141
+• Minimum 3.2 overall undergraduate GPA
+ITCS 4180 ITCS 5180
+• Minimum 3.3 GPA in the Department of Computer Science
+ITIS 4166 ITIS 5166
+• Submit application online at gradadmissions.charlotte.edu/apply
+and provide supporting documents Data Science Concentration Electives
+• Recommendation by the Graduate Program Director and approved ITCS 4121 ITCS 5121
+by the Graduate School ITCS 4122 ITCS 5122
+ITCS 4156 ITCS 6156
+Continued Enrollment Requirements ITIS 4510 ITIS 5510
+• Completion of Early Entry Program Form, and approved by the
+Undergraduate Coordinator, Graduate Program Director, and More Information
+Graduate School, prior to registering for graduate coursework each For additional details on Early Entry to Graduate Programs, see the
+semester "Degree Requirements and Academic Policies" section of the Graduate
+• Maintain a minimum 2.75 overall undergraduate GPA and 3.0 Catalog and the Graduate Admissions website at
+Junior/Senior GPA gradadmissions.charlotte.edu/admissions/early-entry.
+• Undergraduate students are allowed to take only 15 hours of
+graduate credit before they have completed their baccalaureate For details about the full requirements for this degree program, see the
+degree program listing in the Graduate Catalog.
+Double-Counted Courses
+Up to 12 credit hours earned at the graduate level may be substituted for
+required undergraduate hours (i.e., up to 12 credit hours of graduate
+coursework may be double-counted toward both the undergraduate and
+graduate degrees). The following are approved course substitutions for
+Early Entry into the M.S. in Computer Science program:
+178 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+Department of
+To assist with their studies, students have access to advanced computer
+labs and software where they can practice and experiment in controlled
+Software and
+environments. In addition, the department maintains a high degree of
+interaction with working industry professionals who provide real-world
+Information Systems expertise and experience.
+Bachelor of Science in Computer Science
+sis.charlotte.edu
+with Concentration in Cybersecurity
+Undergraduate Programs This concentration is designed to best prepare students to match the
+diverse requirements of employers. It also prepares students to pursue
+• B.A. in Computer Science
+graduate studies in computing and other related areas.
+o Human-Computer Interaction
+o Information Technology The B.S. in Computer Science program requires a common set of a
+• B.S. in Computer Science computer science courses, as well as a second concentration in a non-
+o Cybersecurity computer science discipline, satisfied by a second major, a minor, or a
+o Software Engineering set of coordinated courses developed through consultation with an
+o Web and Mobile Applications advisor. Graduates from the B.S. program are thus expected to have
+• Minor in Human-Centered Design knowledge and skill in computer science plus a complementary discipline
+to which computing applies.
+• Minor in Interactive Programming
+• Minor in Software Development
+Admission Requirements
+• Early Entry: M.S. in Cybersecurity
+Freshmen
+• Early Entry: M.S. in Information Technology • Minimum GPA: 2.5
+• Other Requirements: Admission is competitive for computer
+The Department of Software and Information Systems provides a range of science programs and, if admissible, freshmen must present a
+courses and concentrations related to the design, management, and minimum SAT-Math score of 530 or ACT-Math subscore of 22.
+security of software systems with an emphasis on information Transfers
+technology. The department offers courses in information technology • Minimum GPA: 2.5
+design and management; software systems design, architecture, • Pre-Major/Prerequisite Courses: A grade of C or above is
+integration, and implementation; human centered design and interaction, required in any previously attempted Computer Science course.
+cybersecurity, health informatics, and intelligent and complex systems. Students must be able to transfer credits for the equivalent of
+College Algebra.
+The Department of Software and Information Systems offers both • Other Requirements: Transfer students must present an overall
+undergraduate and graduate programs. The undergraduate majors lead GPA of at least 2.5 with no grade less than C in Computer Science
+to a Bachelor of Arts (B.A.) or a Bachelor of Science (B.S.) in Computer courses. For internal transfer students, participation in a Change
+Science. The Software and Information Systems concentrations included of Major Workshop offered by the CCI Advising Center is required
+in these degrees described below are technically part of the Computer before becoming eligible to declare the Computer Science major.
+Science major but for administrative and advising purposes, students • Transferable Credit Hours: 24
+completing these concentrations are members of the Department of
+Software and Information Systems. Degree Requirements
+General Education Courses (37-41 credit hours)
+For details on required courses, refer to the General Education program.
+Students majoring in Computer Science should plan on taking the
+following courses that meet both general education and major
+requirements:
+MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning
+requirement)
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning
+requirement)
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+Communication Skills requirement)
+Graduate study leads to a Master of Science (M.S.) in Information ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+Technology or Cybersecurity. Graduate certificate programs are also Communication Skills requirement)
+available. See the UNC Charlotte Graduate Catalog for information on
+these graduate programs.
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 179
+Major Courses (50 credit hours) above.
+Core Courses (26 credit hours)
+ITSC 1212 - Introduction to Computer Science I (4) Unrestricted Elective Courses
+ITSC 1213 - Introduction to Computer Science II (4) As needed to complete the credit hours required for graduation.
+ITSC 1600 - Computing Professionals (2)
+or ITSC 2600 - Computer Science Program, Identity, Career (2) Degree Total = 120 Credit Hours
+ITSC 2175 - Logic and Algorithms (3)
+or MATH 1165 - Introduction to Discrete Structures (3) Grade Requirements
+ITSC 2181 - Introduction to Computer Systems (4)
+• The GPA requirement for all Computer Science undergraduate
+ITSC 2214 - Data Structures and Algorithms (3)
+degree programs is 2.0 or above in all courses applied to the degree
+ITSC 3146 - Introduction to Operating Systems and Networking (3)
+and all courses in the major.
+ITSC 3155 - Software Engineering (3)
+• Students have a limit of 2 attempts per course in the major (plus 1
+Mathematics and Statistics Courses (6 credit hours)
+more by petition). This applies to all courses listed under the Major
+MATH 2164 - Matrices and Linear Algebra (3)
+Courses and Concentration Courses categories of B.S. and B.A. in
+STAT 2122 - Introduction to Probability and Statistics (3)
+Computer Science degree programs. The third attempt at a course
+can only be approved by petition. In addition, a Withdrawal does not
+Elective Courses in Other Disciplines (15 credit hours)
+count as an attempt, as that effort is already restricted via the
+Select 15 elective credit hours. Courses that count towards this
+Withdrawal limit.
+requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+This requirement can be fulfilled by pursuing a/an:
+• Students are required to achieve a grade of C or above in all Core
+Courses within the major, as listed above.
+• Minor
+• Second major
+Bachelor of Science in Computer Science
+• Honors program
+• Undergraduate certificate with Concentration in Software Engineering
+• Set of courses selected by the student that do not satisfy any other
+This concentration is designed to best prepare students to match the
+degree requirement
+diverse requirements of employers. It also prepares students to pursue
+graduate studies in computing and other related areas.
+Capstone Course (3 credit hours)
+Select one of the following:
+The B.S. in Computer Science program requires a common set of a
+ITCS 4232 - Game Design and Development Studio (3)
+computer science courses, as well as a second concentration in a non-
+ITIS 4390 - Interaction Design Studio (3)
+computer science discipline, satisfied by a second major, a minor, or a
+ITIS 4246 - Competitive Cyber Defense (3)
+set of coordinated courses developed through consultation with an
+ITIS 4246 - Competitive Cyber Defense (3)
+advisor. Graduates from the B.S. program are thus expected to have
+ITSC 4155 - Software Development Projects (3)
+knowledge and skill in computer science plus a complementary discipline
+ITSC 4681 - Senior Design I (3)
+to which computing applies.
+ITSC 4682 - Senior Design II (3)
+ITSC 4750 - Honors Thesis (3)
+Admission Requirements
+ITSC 4850 - Senior Project I (3)
+Freshmen
+ITSC 4851 - Senior Project II (3)
+• Minimum GPA: 2.5
+ITSC 4990 - Undergraduate Research (3)
+ITSC 4991 - Undergraduate Thesis (3) • Other Requirements: Admission is competitive for computer
+science programs and, if admissible, freshmen must present a
+Concentration Courses (27 credit hours) minimum SAT-Math score of 530 or ACT-Math subscore of 22.
+Transfers
+Concentration Required Courses (24 credit hours)
+ITCS 3160 - Database Design and Implementation (3) • Minimum GPA: 2.5
+ITIS 3135 - Web-Based Application Design and Development (3) • Pre-Major/Prerequisite Courses: A grade of C or above is
+ITIS 3200 - Introduction to Information Security and Privacy (3) required in any previously attempted Computer Science course.
+ITIS 3246 - IT Infrastructure and Security (3) Students must be able to transfer credits for the equivalent of
+ITIS 4166 - Network-Based Application Development (3) College Algebra.
+ITIS 4221 - Secure Programming and Penetration Testing (3) • Other Requirements: Transfer students must present an overall
+ITIS 4250 - Computer Forensics (3) GPA of at least 2.5 with no grade less than C in Computer Science
+ITIS 4260 - Introduction to Security Analytics (3) courses. For internal transfer students, participation in a Change
+or ITIS 4420 - Usable Security and Privacy (3) of Major Workshop offered by the CCI Advising Center is required
+before becoming eligible to declare the Computer Science major.
+Concentration Technical Elective Course (3 credit hours) • Transferable Credit Hours: 24
+Select one elective course from 3000- or 4000-level courses offered by
+the College of Computing and Informatics, excluding the courses listed
+180 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+Degree Requirements Concentration Courses (27 credit hours)
+General Education Courses (37-41 credit hours) Required Concentration Courses (12 credit hours)
+For details on required courses, refer to the General Education program. ITCS 3160 - Database Design and Implementation (3)
+Students majoring in Computer Science should plan on taking the ITIS 3135 - Web-Based Application Design and Development (3)
+following courses that meet both general education and major ITIS 3310 - Software Architecture and Design (3)
+requirements: ITIS 4221 - Secure Programming and Penetration Testing (3)
+MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning Elective Concentration Courses (9 credit hours)
+requirement) Select three courses from the lists below. (The categories are only to
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning indicate sub-areas of this concentration; the courses selected do not
+requirement) need to be within one category.)
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+Communication Skills requirement) Software Design Courses
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills ITCS 3112 - Design and Implementation of Object-Oriented Systems (3)
+Communication Skills requirement) ITIS 3130 - Human-Centered Design (3)
+ITIS 4350 - Rapid Prototyping (3)
+Major Courses (50 credit hours) ITIS 4440 - Interactive Systems Design and Implementation (3)
+Core Courses (26 credit hours)
+ITSC 1212 - Introduction to Computer Science I (4) Software Development Courses
+ITSC 1213 - Introduction to Computer Science II (4) ITIS 3300 - Software Requirements and Project Management (3)
+ITSC 1600 - Computing Professionals (2) ITIS 3320 - Introduction to Software Testing and Assurance (3)
+or ITSC 2600 - Computer Science Program, Identity, Career (2) ITIS 4166 - Network-Based Application Development (3)
+ITSC 2175 - Logic and Algorithms (3) ITIS 4180 - Mobile Application Development (3)
+or MATH 1165 - Introduction to Discrete Structures (3)
+ITSC 2181 - Introduction to Computer Systems (4) Technical Elective Concentration Courses (6 credit hours)
+ITSC 2214 - Data Structures and Algorithms (3) Select two elective courses from the 3000- or 4000-levels of courses
+ITSC 3146 - Introduction to Operating Systems and Networking (3) offered by the College of Computing and Informatics.
+ITSC 3155 - Software Engineering (3)
+Unrestricted Elective Courses
+Mathematics and Statistics Courses (6 credit hours) As needed to complete the credit hours required for graduation.
+MATH 2164 - Matrices and Linear Algebra (3)
+STAT 2122 - Introduction to Probability and Statistics (3) Degree Total = 120 Credit Hours
+Elective Courses in Other Disciplines (15 credit hours) Grade Requirements
+Select 15 elective credit hours. Courses that count towards this The GPA requirement for all Computer Science undergraduate degree
+requirement must have a discipline prefix other than ITSC, ITCS, or ITIS. programs is 2.0 or above in all courses applied to the degree and all
+This requirement can be fulfilled by pursuing a/an: courses in the major.
+• Minor Students have a limit of 2 attempts per course in the major (plus 1 more
+• Second major by petition). This applies to all courses listed under the Major Courses
+• Honors program and Concentration Courses categories of B.S. and B.A. in Computer
+• Undergraduate certificate Science degree programs. The third attempt at a course can only be
+• Set of courses selected by the student that do not satisfy any other approved by petition. In addition, a Withdrawal does not count as an
+degree requirement attempt, as that effort is already restricted via the Withdrawal limit.
+Capstone Course (3 credit hours) Students are required to achieve a grade of C or above in all Core Courses
+Select one of the following: within the major, as listed above.
+ITCS 4232 - Game Design and Development Studio (3)
+ITIS 4390 - Interaction Design Studio (3) Bachelor of Science in Computer Science
+ITIS 4246 - Competitive Cyber Defense (3)
+with Concentration in Web and Mobile
+ITSC 4155 - Software Development Projects (3)
+ITSC 4681 - Senior Design I (3) Applications
+ITSC 4682 - Senior Design II (3)
+This concentration is designed to best prepare students to match the
+ITSC 4750 - Honors Thesis (3)
+diverse requirements of employers. It also prepares students to pursue
+ITSC 4850 - Senior Project I (3)
+graduate studies in computing and other related areas.
+ITSC 4851 - Senior Project II (3)
+ITSC 4990 - Undergraduate Research (3)
+The B.S. in Computer Science program requires a common set of a
+ITSC 4991 - Undergraduate Thesis (3)
+computer science courses, as well as a second concentration in a non-
+computer science discipline, satisfied by a second major, a minor, or a
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 181
+set of coordinated courses developed through consultation with an requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+advisor. Graduates from the B.S. program are thus expected to have This requirement can be fulfilled by pursuing a/an:
+knowledge and skill in computer science plus a complementary discipline
+to which computing applies. • Minor
+• Second major
+Admission Requirements • Honors program
+Freshmen • Undergraduate certificate
+• Minimum GPA: 2.5 • Set of courses selected by the student that do not satisfy any other
+• Other Requirements: Admission is competitive for computer degree requirement
+science programs and, if admissible, freshmen must present a
+minimum SAT-Math score of 530 or ACT-Math subscore of 22. Capstone Course (3 credit hours)
+Transfers Select one of the following:
+• Minimum GPA: 2.5 ITCS 4232 - Game Design and Development Studio (3)
+• Pre-Major/Prerequisite Courses: A grade of C or above is ITIS 4390 - Interaction Design Studio (3)
+required in any previously attempted Computer Science course. ITIS 4246 - Competitive Cyber Defense (3)
+Students must be able to transfer credits for the equivalent of ITSC 4155 - Software Development Projects (3)
+College Algebra. ITSC 4681 - Senior Design I (3)
+• Other Requirements: Transfer students must present an overall ITSC 4682 - Senior Design II (3)
+GPA of at least 2.5 with no grade less than C in Computer Science ITSC 4750 - Honors Thesis (3)
+courses. For internal transfer students, participation in a Change ITSC 4850 - Senior Project I (3)
+of Major Workshop offered by the CCI Advising Center is required ITSC 4851 - Senior Project II (3)
+before becoming eligible to declare the Computer Science major. ITSC 4990 - Undergraduate Research (3)
+• Transferable Credit Hours: 24 ITSC 4991 - Undergraduate Thesis (3)
+Degree Requirements Concentration Courses (27 credit hours)
+ITIS 3130 - Human-Centered Design (3)
+General Education Courses (37-41 credit hours)
+ITIS 3135 - Web-Based Application Design and Development (3)
+For details on required courses, refer to the General Education program.
+ITIS 3200 - Introduction to Information Security and Privacy (3)
+Students majoring in Computer Science should plan on taking the
+ITIS 3300 - Software Requirements and Project Management (3)
+following courses that meet both general education and major
+ITIS 3310 - Software Architecture and Design (3)
+requirements:
+ITIS 3320 - Introduction to Software Testing and Assurance (3)
+ITIS 4166 - Network-Based Application Development (3)
+MATH 1241 - Calculus I (3) (fulfills Mathematical and Logical Reasoning
+ITIS 4440 - Interactive Systems Design and Implementation (3)
+requirement)
+ITIS 4221 - Secure Programming and Penetration Testing (3)
+MATH 1242 - Calculus II (3) (fulfills Mathematical and Logical Reasoning
+ITCS 3160 - Database Design and Implementation (3)
+requirement)
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+Concentration Technical Elective Courses (3 credit hours)
+Communication Skills requirement)
+Select elective courses from the 3000- or 4000- levels of courses offered
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+by the College of Computing and Informatics.
+Communication Skills requirement)
+Unrestricted Elective Courses
+Major Courses (50 credit hours)
+As needed to complete the credit hours required for graduation.
+Core Courses (26 credit hours)
+ITSC 1212 - Introduction to Computer Science I (4)
+Degree Total = 120 Credit Hours
+ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 1600 - Computing Professionals (2)
+or ITSC 2600 - Computer Science Program, Identity, Career (2) Grade Requirements
+ITSC 2175 - Logic and Algorithms (3) The GPA requirement for all Computer Science undergraduate degree
+or MATH 1165 - Introduction to Discrete Structures (3) programs is 2.0 or above in all courses applied to the degree and all
+ITSC 2181 - Introduction to Computer Systems (4) courses in the major.
+ITSC 2214 - Data Structures and Algorithms (3)
+ITSC 3146 - Introduction to Operating Systems and Networking (3) Students have a limit of 2 attempts per course in the major (plus 1 more
+ITSC 3155 - Software Engineering (3) by petition). This applies to all courses listed under the Major Courses
+and Concentration Courses categories of B.S. and B.A. in Computer
+Mathematics and Statistics Courses (6 credit hours) Science degree programs. The third attempt at a course can only be
+MATH 2164 - Matrices and Linear Algebra (3) approved by petition. In addition, a Withdrawal does not count as an
+STAT 2122 - Introduction to Probability and Statistics (3) attempt, as that effort is already restricted via the Withdrawal limit.
+Elective Courses in Other Disciplines (15 credit hours) Students are required to achieve a grade of C or above in all Core Courses
+Select 15 elective credit hours. Courses that count towards this within the major, as listed above.
+182 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+ITSC 2175 - Logic and Algorithms (3)
+Bachelor of Arts in Computer Science with or MATH 1165 - Introduction to Discrete Structures (3)
+ITSC 2214 - Data Structures and Algorithms (3)
+Concentration in Human-Computer Interaction
+The Concentration in Human-Computer Interaction emphasizes the Advanced Statistics Course (3 credit hours)
+design, development, and implementation of interactive systems from a STAT 2223 - Elements of Statistics II (3)
+human-centric perspective. This concentration prepares students for a
+wide variety of jobs or graduate studies. Elective Courses in Other Disciplines (15 credit hours)
+Select 15 elective credit hours. Courses that count towards this
+The B.A. in Computer Science program requires a compact set of a requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+computer science core, as well as a second concentration in a non- This requirement can be fulfilled by pursuing a/an:
+computer science discipline, satisfied by a second major, a minor, or a
+set of coordinated courses developed through consultation with an • Minor
+advisor. Graduates from the B.A. program are thus expected to have • Second major
+knowledge and skill in computer science plus a complementary discipline • Honors program
+to which computing applies. The emphasis in this program is less • Undergraduate certificate
+theoretical/mathematical, and more on the applied side of computing. • Set of courses selected by the student that do not satisfy any other
+degree requirement
+Admission Requirements
+Freshmen Capstone Course (3 credit hours)
+• Minimum GPA: 2.5 Select one of the following:
+• Other Requirements: Admission is competitive for computer ITCS 4232 - Game Design and Development Studio (3)
+science programs and, if admissible, freshmen must present a ITIS 4390 - Interaction Design Studio (3)
+minimum SAT-Math score of 530 or ACT-Math subscore of 22. ITIS 4246 - Competitive Cyber Defense (3)
+Transfers ITSC 4155 - Software Development Projects (3)
+• Minimum GPA: 2.5 ITSC 4681 - Senior Design I (3)
+• Pre-Major/Prerequisite Courses: A grade of C or above is ITSC 4682 - Senior Design II (3)
+required in any previously attempted Computer Science course. ITSC 4750 - Honors Thesis (3)
+Students must be able to transfer credits for the equivalent of ITSC 4850 - Senior Project I (3)
+ITSC 4851 - Senior Project II (3)
+College Algebra.
+ITSC 4990 - Undergraduate Research (3)
+• Other Requirements: Transfer students must present an overall
+ITSC 4991 - Undergraduate Thesis (3)
+GPA of at least 2.5 with no grade less than C in Computer Science
+courses. For internal transfer students, participation in a Change
+Concentration Courses (30 credit hours)
+of Major Workshop offered by the CCI Advising Center is required
+Concentration Core Courses (18 credit hours)
+before becoming eligible to declare the Computer Science major.
+ITIS 3130 - Human-Centered Design (3)
+• Transferable Credit Hours: 24
+ITIS 3135 - Web-Based Application Design and Development (3)
+ITIS 3200 - Introduction to Information Security and Privacy (3)
+Degree Requirements
+ITIS 3216 - Introduction to Cognitive Science (3)
+General Education Courses (37-41 credit hours)
+ITIS 4350 - Rapid Prototyping (3)
+For details on required courses, refer to the General Education program.
+ITIS 4440 - Interactive Systems Design and Implementation (3)
+Students majoring in Computer Science should plan on taking the
+following courses that meet both general education and major
+Concentration Technical Elective Courses (12 credit hours)
+requirements:
+Select four elective courses from 3000- or 4000-level courses offered by
+the College of Computing and Informatics, excluding the courses listed
+MATH 1120 - Calculus (3) (fulfills Mathematical and Logical Reasoning
+above.
+requirement)
+STAT 1222 - Introduction to Statistics (3) (fulfills Mathematical and
+Unrestricted Elective Courses (9 credit hours)
+Logical Reasoning requirement)
+Select elective courses in consultation with advisor.
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+Communication Skills requirement)
+Degree Total = 120 Credit Hours
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+Communication Skills requirement)
+Grade Requirements
+Major Courses (37 credit hours) • The GPA requirement for all Computer Science undergraduate
+Core Courses (16 credit hours) degree programs is 2.0 or above in all courses applied to the degree
+ITSC 1212 - Introduction to Computer Science I (4) and all courses in the major.
+ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 1600 - Computing Professionals (2) • Students have a limit of 2 attempts per course in the major (plus 1
+or ITSC 2600 - Computer Science Program, Identity, Career (2) more by petition). This applies to all courses listed under the Major
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 183
+Courses and Concentration Courses categories of B.S. and B.A. in Communication Skills requirement)
+Computer Science degree programs. The third attempt at a course
+can only be approved by petition. In addition, a Withdrawal does not Major Courses (37 credit hours)
+count as an attempt, as that effort is already restricted via the Core Courses (16 credit hours)
+Withdrawal limit. ITSC 1212 - Introduction to Computer Science I (4)
+ITSC 1213 - Introduction to Computer Science II (4)
+• Students are required to achieve a grade of C or above in all Core ITSC 1600 - Computing Professionals (2)
+Courses within the major, as listed above. or ITSC 2600 - Computer Science Program, Identity, Career (2)
+ITSC 2175 - Logic and Algorithms (3)
+Bachelor of Arts in Computer Science with or MATH 1165 - Introduction to Discrete Structures (3)
+ITSC 2214 - Data Structures and Algorithms (3)
+Concentration in Information Technology
+The Concentration in Information Technology emphasizes usability, Advanced Statistics Course (3 credit hours)
+security, and reliability of IT infrastructures, as well as writing and STAT 2223 - Elements of Statistics II (3)
+communications skills. This concentration prepares students for a wide
+variety of jobs or graduate studies. Elective Courses in Other Disciplines (15 credit hours)
+Select 15 elective credit hours. Courses that count towards this
+The B.A. in Computer Science program requires a compact set of a requirement must have a discipline prefix other than ITSC, ITCS, or ITIS.
+computer science core, as well as a second concentration in a non- This requirement can be fulfilled by pursuing a/an:
+computer science discipline, satisfied by a second major, a minor, or a
+set of coordinated courses developed through consultation with an • Minor
+advisor. Graduates from the B.A. program are thus expected to have • Second major
+knowledge and skill in computer science plus a complementary discipline • Honors program
+to which computing applies. The emphasis in this program is less • Undergraduate certificate
+theoretical/mathematical, and more on the applied side of computing. • Set of courses selected by the student that do not satisfy any other
+degree requirement
+Admission Requirements
+Freshmen Capstone Course (3 credit hours)
+• Minimum GPA: 2.5 Select one of the following:
+• Other Requirements: Admission is competitive for computer ITCS 4232 - Game Design and Development Studio (3)
+science programs and, if admissible, freshmen must present a ITIS 4390 - Interaction Design Studio (3)
+minimum SAT-Math score of 530 or ACT-Math subscore of 22. ITIS 4246 - Competitive Cyber Defense (3)
+Transfers ITSC 4155 - Software Development Projects (3)
+ITSC 4681 - Senior Design I (3)
+• Minimum GPA: 2.5
+ITSC 4682 - Senior Design II (3)
+• Pre-Major/Prerequisite Courses: A grade of C or above is
+ITSC 4750 - Honors Thesis (3)
+required in any previously attempted Computer Science course.
+ITSC 4850 - Senior Project I (3)
+Students must be able to transfer credits for the equivalent of
+ITSC 4851 - Senior Project II (3)
+College Algebra.
+ITSC 4990 - Undergraduate Research (3)
+• Other Requirements: Transfer students must present an overall
+ITSC 4991 - Undergraduate Thesis (3)
+GPA of at least 2.5 with no grade less than C in Computer Science
+courses. For internal transfer students, participation in a Change
+Concentration Courses (33 credit hours)
+of Major Workshop offered by the CCI Advising Center is required
+Concentration Core Courses (15 credit hours)
+before becoming eligible to declare the Computer Science major.
+ITIS 3130 - Human-Centered Design (3)
+• Transferable Credit Hours: 24
+ITIS 3135 - Web-Based Application Design and Development (3)
+ITIS 3200 - Introduction to Information Security and Privacy (3)
+Degree Requirements
+ITIS 3300 - Software Requirements and Project Management (3)
+General Education Courses (37-41 credit hours)
+ITCS 3160 - Database Design and Implementation (3)
+For details on required courses, refer to the General Education program.
+Students majoring in Computer Science should plan on taking the
+Concentration Technical Elective Courses (18 credit hours)
+following courses that meet both general education and major
+Select six elective courses from 3000- or 4000-level courses offered by
+requirements:
+the College of Computing and Informatics, excluding the courses listed
+above.
+MATH 1120 - Calculus (3) (fulfills Mathematical and Logical Reasoning
+requirement)
+Unrestricted Elective Courses (6 credit hours)
+STAT 1222 - Introduction to Statistics (3) (fulfills Mathematical and
+Select courses in consultation with advisor.
+Logical Reasoning requirement)
+ENGL 2116 - Introduction to Technical Communication (3) (W) (fulfills
+Degree Total = 120 Credit Hours
+Communication Skills requirement)
+ITSC 3688 - Computers and Their Impact on Society (3) (O,W) (fulfills
+184 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+Grade Requirements
+• The GPA requirement for all Computer Science undergraduate Grade Requirements
+degree programs is 2.0 or above in all courses applied to the degree All courses must be completed with a grade of C or above.
+and all courses in the major.
+Minor Total = 16 Credit Hours
+• Students have a limit of 2 attempts per course in the major (plus 1
+more by petition). This applies to all courses listed under the Major
+Minor in Interactive Programming
+Courses and Concentration Courses categories of B.S. and B.A. in
+Computer Science degree programs. The third attempt at a course The Minor in Interactive Programming provides students with the
+can only be approved by petition. In addition, a Withdrawal does not knowledge and skills in programming using event-driven languages.
+count as an attempt, as that effort is already restricted via the Students gain hands-on knowledge of how to develop web and software
+Withdrawal limit. applications and understand critical issues in design, development, and
+implementation.
+• Students are required to achieve a grade of C or above in all Core
+Courses within the major, as listed above. Admission Requirements
+• Approval of Department of Software and Information Systems
+Minor Requirements
+Required Courses (11 credit hours)
+ITSC 1212 - Introduction to Computer Science I (4)
+ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 2214 - Data Structures and Algorithms (3)
+1st Elective Course (3 credit hours)
+Select one of the following:
+ITIS 3130 - Human-Centered Design (3)
+ITIS 4350 - Rapid Prototyping (3)
+2nd Elective Course (3 credit hours)
+Select one of the following:
+ITIS 3135 - Web-Based Application Design and Development (3)
+ITIS 4180 - Mobile Application Development (3)
+ITIS 4440 - Interactive Systems Design and Implementation (3)
+Grade Requirements
+All courses must be completed with a grade of C or above.
+Minor Total = 17 Credit Hours
+Minor in Human-Centered Design
+The Minor in Human-Centered Design provides students with the Minor in Software Development
+knowledge and skills in the application of human-centered design
+The Minor in Software Development provides students with the
+methods.
+knowledge and skills in software development using programming
+languages. Students gain hands-on knowledge of software development
+Admission Requirements
+processes.
+• Approval of Department of Software and Information Systems
+Admission Requirements
+Minor Requirements
+• Approval of Department of Software and Information Systems
+Required Courses (13 credit hours)
+ITSC 1110 - Introduction to Computer Science Principles (3)
+Minor Requirements
+ITSC 1212 - Introduction to Computer Science I (4)
+Required Courses (14 credit hours)
+ITIS 3130 - Human-Centered Design (3)
+ITSC 1212 - Introduction to Computer Science I (4)
+ITIS 4350 - Rapid Prototyping (3)
+ITSC 1213 - Introduction to Computer Science II (4)
+ITSC 2214 - Data Structures and Algorithms (3)
+Elective Courses (3 credit hours)
+ITSC 3155 - Software Engineering (3)
+Select one of the following:
+ITCS 3216 - Introduction to Cognitive Science (3)
+ITCS 4122 - Visual Analytics (3)
+ITIS 4390 - Interaction Design Studio (3)
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 185
+Elective Course (3 credit hours) Early Entry: Master of Science in
+Select one of the following:
+ITIS 3130 - Human-Centered Design (3) Information Technology
+ITIS 3135 - Web-Based Application Design and Development (3)
+Exceptional undergraduate students at UNC Charlotte may apply to this
+ITIS 4166 - Network-Based Application Development (3)
+Early Entry Program to begin work toward a graduate degree before
+ITIS 4180 - Mobile Application Development (3)
+completion of the baccalaureate degree.
+ITIS 4350 - Rapid Prototyping (3)
+Admission Requirements
+Grade Requirements
+• Completion of at least 75 undergraduate credit hours (although it is
+All courses must be completed with a grade of C or above.
+expected that close to 90 credit hours will have been earned by the
+time the first graduate course is taken)
+Minor Total = 17 Credit Hours
+• Minimum 3.2 overall undergraduate GPA
+• Minimum 3.3 GPA in the Department of Computer Science
+Early Entry: Master of Science in • Submit application online at gradadmissions.charlotte.edu/apply
+and provide supporting documents
+Cybersecurity
+• Recommendation by the Graduate Program Director and approved
+Exceptional undergraduate students at UNC Charlotte may be accepted by the Graduate School
+into the M.S. in Cybersecurity and begin work toward a graduate degree
+before completion of the baccalaureate degree.
+Continued Enrollment Requirements
+• Completion of Early Entry Program Form, and approved by the
+Admission Requirements
+Undergraduate Coordinator, Graduate Program Director, and
+• Completion of at least 75 undergraduate credit hours (although it is
+Graduate School, prior to registering for graduate coursework each
+expected that close to 90 credit hours will have been earned by the
+semester
+time the first graduate course is taken)
+• Maintain a minimum 2.75 overall undergraduate GPA and 3.0
+• Minimum 3.2 overall undergraduate GPA
+Junior/Senior GPA
+• Acceptable scores on the appropriate graduate standardized test • Undergraduate students are allowed to take only 15 hours of
+(e.g., GRE)
+graduate credit before they have completed their baccalaureate
+• Submit application online at gradadmissions.charlotte.edu/apply degree
+and provide supporting documents
+• Recommendation by the Graduate Program Director and approved Double-Counted Courses
+by the Graduate School
+Up to 12 credit hours earned at the graduate level may be substituted for
+required undergraduate hours (i.e., up to 12 credit hours of graduate
+Continued Enrollment Requirements
+coursework may be double-counted toward both the undergraduate and
+• Completion of Early Entry Program Form, and approved by the graduate degrees). The following are approved course substitutions for
+Undergraduate Coordinator, Graduate Program Director, and Early Entry into the M.S. in Computer Science program:
+Graduate School, prior to registering for graduate coursework each
+semester
+Graduate Level Substitutes Undergraduate Course
+• Maintain a minimum 3.0 overall undergraduate GPA and a 3.0
+Equivalent
+Junior/Senior GPA
+ITIS 5166 - Network-Based ITIS 4166 - Network-Based
+• Undergraduate students are allowed to take only 15 hours of
+Application Development (3) Application Development (3)
+graduate credit before they have completed their baccalaureate
+degree ITIS 5180 - Mobile Application ITIS 4180 - Mobile Application
+Development (3) Development (3)
+Double-Counted Courses
+ITIS 5221 - Secure Programming ITIS 4221 - Secure Programming
+Up to 12 credit hours earned at the graduate level may be substituted for and Penetration Testing (3) and Penetration Testing (3)
+required undergraduate hours (i.e., up to 12 credit hours of graduate
+ITIS 5246 - Competitive Cyber ITIS 4246 - Competitive Cyber
+coursework may be double-counted toward both the undergraduate and
+Defense (3) Defense (3)
+graduate degrees).
+ITIS 5250 - Computer Forensics ITIS 4250 - Computer Forensics
+More Information (3) (3)
+For additional details on Early Entry to Graduate Programs, see the ITIS 5260 - Introduction to ITIS 4260 - Introduction to
+"Degree Requirements and Academic Policies" section of the Graduate Security Analytics (3) Security Analytics (3)
+Catalog and the Graduate Admissions website at
+ITIS 6011 - Interaction Design ITIS 4390 - Interaction Design
+gradadmissions.charlotte.edu/admissions/early-entry.
+Studio (3) Studio (3)
+ITIS 5350 - Rapid Prototyping (3) ITIS 4350 - Rapid Prototyping (3)
+For details about the full requirements for these degree programs, see
+the program listings in the Graduate Catalog.
+186 | College of Computing and Informatics 2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG
+Graduate Level Substitutes Undergraduate Course
+Equivalent
+ITIS 6120 - Applied Databases (3) ITCS 3160 - Database Design and
+Implementation (3)
+ITIS 6200 - Principles of ITIS 3200 - Introduction to
+Information Security and Information Security and
+Privacy (3) Privacy (3)
+ITIS 6216 - Introduction to ITIS 3216 - Introduction to
+Cognitive Science (3) Cognitive Science (3)
+ITIS 6342 - Information ITIS 3300 - Software
+Technology Project Requirements and Project
+Management (3) Management (3)
+ITIS 6370 - Interactive Systems ITIS 4440 - Interactive Systems
+Design and Implementation (3) Design and Implementation (3)
+ITIS 6400 - Human-Centered ITIS 3130 - Human-Centered
+Design (3) Design (3)
+ITIS 6420 - Usable Security and ITIS 4420 - Usable Security and
+Privacy (3) Privacy (3)
+5166 - Network-Based Application ITIS 4166 - Network-Based
+Development (3) Application Development (3)
+ITIS 5180 - Mobile Application ITIS 4180 - Mobile Application
+Development (3) Development (3)
+ITIS 5221 - Secure Programming ITIS 4221 - Secure Programming
+and Penetration Testing (3) and Penetration Testing (3)
+ITIS 5246 - Competitive Cyber ITIS 4246 - Competitive Cyber
+Defense (3) Defense (3)
+ITIS 5250 - Computer Forensics ITIS 4250 - Computer Forensics
+(3) (3)
+ITIS 5260 - Introduction to ITIS 4260 - Introduction to
+Security Analytics (3) Security Analytics (3)
+ITIS 6011 - Interaction Design ITIS 4390 - Interaction Design
+Studio (3) Studio (3)
+More Information
+For additional details on Early Entry to Graduate Programs, see the
+"Degree Requirements and Academic Policies" section of the Graduate
+Catalog and the Graduate Admissions website at
+gradadmissions.charlotte.edu/admissions/early-entry.
+For details about the full requirements for this degree program, see the
+program listing in the Graduate Catalog.
+Early Entry: Master of Science and
+Graduate Certificate in Health Informatics
+and Analytics
+For details, see the College of Health and Human Services section of this
+Catalog under the “Department of Public Health Sciences” heading.
+2022-2023 UNC CHARLOTTE UNDERGRADUATE CATALOG College of Computing and Informatics | 187
