@@ -65,7 +65,9 @@
   <role>TODO: Define the assistant role for the advanced technique.</role>
   <cp caption="Instructions">
     <list>
-      <item>TODO: Choose a technique from Nir Diamant's Prompt Engineering list.</item>
+      <item>TODO: Choose a technique from Nir Diamant's Prompt Engineering repo </item>
+      <item>https://github.com/NirDiamant/Prompt_Engineering?tab=readme-ov-file#prompt-engineering-techniques</item>
+      <item>Make sure to use a different technique than what you chose for the in class activity.</item>
       <item>TODO: Write instructions that implement that technique.</item>
       <item>TODO: Add any additional constraints for answers.</item>
     </list>
